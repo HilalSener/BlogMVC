@@ -17,6 +17,21 @@ navbar-default {
 sidebar-default{
     background-color: #ffffff;
 }
+.me{
+    
+    font-size: 15px;
+    color: #1c202a;
+}
+
+.after{
+    position: relative;
+    content: "";
+    bottom: 0;
+    left: 0;
+    height: 2px;
+    width: 50px;
+    background: #eb5c02;
+}
 
 .social-menu{    
     width: 100%;
@@ -48,7 +63,7 @@ sidebar-default{
     opacity: 1;
 }
 
-h1, h4{
+h4{
     font-size: 14px;
     text-transform: uppercase;
     font-weight: 400;
