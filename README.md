@@ -1,3 +1,0 @@
-# BlogMVC
-
-MVC Blog theme
