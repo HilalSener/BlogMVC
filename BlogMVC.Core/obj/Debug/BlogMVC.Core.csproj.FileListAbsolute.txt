@@ -1,0 +1,5 @@
+c:\Users\hilal sener\documents\visual studio 2015\Projects\BlogMVC\BlogMVC.Core\bin\Debug\BlogMVC.Core.dll
+c:\Users\hilal sener\documents\visual studio 2015\Projects\BlogMVC\BlogMVC.Core\bin\Debug\BlogMVC.Core.pdb
+c:\Users\hilal sener\documents\visual studio 2015\Projects\BlogMVC\BlogMVC.Core\obj\Debug\BlogMVC.Core.csprojResolveAssemblyReference.cache
+c:\Users\hilal sener\documents\visual studio 2015\Projects\BlogMVC\BlogMVC.Core\obj\Debug\BlogMVC.Core.dll
+c:\Users\hilal sener\documents\visual studio 2015\Projects\BlogMVC\BlogMVC.Core\obj\Debug\BlogMVC.Core.pdb
